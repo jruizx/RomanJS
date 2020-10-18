@@ -1,0 +1,16 @@
+{
+  "name": "romannumbers",
+  "version": "1.0.0",
+  "description": "Roman numbers kata",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.3"
+  }
+}
